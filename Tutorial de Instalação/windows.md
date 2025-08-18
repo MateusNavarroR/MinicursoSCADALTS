@@ -46,7 +46,7 @@ Este tutorial descreve o passo a passo para instalar o **SCADA-LTS** no Windows.
 
 ![](Images/instalacao_scadalts_03.png)
 
-6 - Após a instalação, na área de trabalho será criado três atalhos, dois para ligar e desligar o servidor SCADA e o atalho para abrir a interface do SCADA. Porém, o link por padrão no navegador é **https://localhost:8080/Scada-LTS**
+6 - Após a instalação, na área de trabalho será criado três atalhos, dois para ligar e desligar o servidor SCADA e o atalho para abrir a interface do SCADA. Porém, o link por padrão no navegador é **http://localhost:8080/Scada-LTS**
 
 ------
 

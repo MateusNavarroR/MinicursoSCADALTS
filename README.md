@@ -14,14 +14,15 @@ Minicurso desenvolvido por Mateus Navarro Ribeiro de Lima, graduando no curso de
 
 ## 📂 Estrutura do Repositório
 
-| Pasta | Descrição |
-|-------|-----------|
-| `tutoriais/` | PDFs com instruções passo a passo |
+| Pasta                    | Descrição                                          |
+| ------------------------ | -------------------------------------------------- |
+| `tutoriais/`             | PDFs com instruções passo a passo                  |
 | `template_supervisorio/` | Projeto exemplo que os alunos podem usar como base |
+|                          |                                                    |
 
 ## 🖼️ Exemplo de Supervisório
 
-![Exemplo de supervisório](imagens/supervisório_exemplo.png)
+![Exemplo de supervisório](Supervisorio_Final.png)
 
 ## 📥 Baixar Template
 

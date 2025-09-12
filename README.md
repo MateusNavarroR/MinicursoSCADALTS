@@ -1,8 +1,10 @@
 # Minicurso SCADA-LTS
 
+![Exemplo de supervisório](capa.png)
+
 Este repositório contém todos os materiais utilizados no minicurso de introdução ao SCADA-LTS, incluindo tutoriais em PDF, arquivos de exemplo e um template pronto para a criação de um supervisório.
 
-Minicurso desenvolvido por Mateus Navarro Ribeiro de Lima, graduando no curso de Engenharia Elétrica da Universidade Federal da Paraíba com orientação do professor Juan Mauricio Villanueva
+Minicurso desenvolvido por **Mateus Navarro Ribeiro de Lima**, graduando no curso de **Engenharia Elétrica da Universidade Federal da Paraíba** com orientação do professor **Juan Mauricio Villanueva**
 
 ## 📘 Conteúdo do Curso
 
@@ -14,19 +16,18 @@ Minicurso desenvolvido por Mateus Navarro Ribeiro de Lima, graduando no curso de
 
 ## 📂 Estrutura do Repositório
 
-| Pasta                    | Descrição                                          |
-| ------------------------ | -------------------------------------------------- |
-| `tutoriais/`             | PDFs com instruções passo a passo                  |
-| `template_supervisorio/` | Projeto exemplo que os alunos podem usar como base |
-|                          |                                                    |
+| Pasta                    | Descrição                                                                     |
+| ------------------------ | ----------------------------------------------------------------------------- |
+| `Dia 1/`                 | PDFs e Arquivos referentes ao primeiro dia do curso                           |
+| `Dia 2/`                 | PDFs e Arquivos referentes ao segundo dia do curso                            |
+| `Simulador Modbus/`      | Programas de simulação da comunicação MODBUS para a realização dos exercicios |
+| `Tutorial de Instalação` | Tutoriais de instalação do programa para Windows e Linux                      |
 
 ## 🖼️ Exemplo de Supervisório
 
 ![Exemplo de supervisório](Supervisorio_Final.png)
 
-## 📥 Baixar Template
-
-Você pode baixar o template para o projeto final clicando [aqui](template_supervisorio/arquivos_projeto.zip).
+## 
 
 ---
 

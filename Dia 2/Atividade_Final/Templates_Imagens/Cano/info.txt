@@ -1,0 +1,6 @@
+name=Cano
+type=imageSet
+width=262
+height=292
+text.x=5
+text.y=115
